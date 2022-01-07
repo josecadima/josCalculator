@@ -1,0 +1,21 @@
+{
+  "name": "joscalculator-basic-api",
+  "version": "1.0.0",
+  "description": "Basic calculator operation writen in Node.js",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "keywords": [
+    "node",
+    "calculator"
+  ],
+  "author": "Jose Cadima",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
